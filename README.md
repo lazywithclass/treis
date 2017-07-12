@@ -1,3 +1,3 @@
 ## treis
 
-(racket/trace) in JavaScript
+[(racket/trace)](https://docs.racket-lang.org/reference/debugging.html) in JavaScript
